@@ -28,10 +28,12 @@ To run the Vyoma assistant locally, follow these steps:
    git clone https://github.com/surajsharma68/Vyoma-Generative-AI-Based-Image-Assessed-Voice-Assistant.git
    cd Vyoma-Generative-AI-Based-Image-Assessed-Voice-Assistant
 
+Absolutely! Here’s your updated section with the new YouTube link for your GitHub README:
+
 ## Demo
 
 Watch the Vyoma demo on YouTube to see how it works in action:
 
-[![Vyoma Demo](https://img.youtube.com/vi/D3d95ew_lx4/0.jpg)](https://youtu.be/D3d95ew_lx4)
+[![Vyoma Demo](https://img.youtube.com/vi/a51QEYrMxNE/0.jpg)](https://youtu.be/a51QEYrMxNE?feature=shared)
 
-Click on the image or [here](https://youtu.be/D3d95ew_lx4) to watch the demo.
+Click on the image or [here](https://youtu.be/a51QEYrMxNE?feature=shared) to watch the demo.
